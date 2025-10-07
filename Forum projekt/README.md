@@ -1,11 +1,11 @@
-# Jakub Skorupa - Strona o Arsenalu
+# Jakub Skorupa - Arsenal FC forum 
 
-Wymagania:
-- Node (https://nodejs.org/en/download/)
+Requirements:
+- [Node](https://nodejs.org/en/download/)
 
-Instalacja:
+Installation:
 
-1. otworzyć terminal w folderze ze stroną
-2. wpisać npm install
-3. wpisać npm start
-4. strona będzię dostępna pod adresem http://localhost:3000
+1. Open a terminal in the folder containing the website
+2. Type npm install
+3. Type npm start
+4. The website will be available at http://localhost:3000
