@@ -1,8 +1,8 @@
 # API Testing
 
-📌 W tym folderze znajdują się kolekcje Postmana i przykłady testów API.  
+📌 This folder contains Postman collections and API test examples.
 
-- Zawiera zestaw testów GET/POST/PUT/DELETE dla przykładowego API.  
-- Skrypty testowe sprawdzają m.in. statusy odpowiedzi i strukturę JSON.
+- Contains a set of GET/POST/PUT/DELETE tests for the sample API.
+- Test scripts check response statuses and JSON structure, among other things.
 
 🖼️ [API TEST](https://drive.google.com/drive/folders/1_884GVflO30w1yizEexmXuFPn4IZWOui?usp=drive_link)
