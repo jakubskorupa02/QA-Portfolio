@@ -1,4 +1,4 @@
-# 🧪 QA Portfolio
+#  ⭐ QA Portfolio
 
 Welcome to my **QA Portfolio**, a collection of projects that demonstrate my skills and experience in **manual testing** and **web technologies**.  
 This repository showcases my approach to quality assurance through various examples, including bug reports, API testing, and UI testing.
