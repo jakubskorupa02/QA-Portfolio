@@ -3,7 +3,7 @@
 Guess My Number is a simple and interactive browser-based game built with HTML, CSS, and JavaScript.
 The goal of the game is to guess a randomly generated number between 1 and 20.
 Players receive hints after each attempt — whether their guess is too high, too low, or correct.
-Project was made during the course [The complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=MT251006G4)
+Project was made during the course [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=MT251006G4)
 
 🕹️ Features
 
