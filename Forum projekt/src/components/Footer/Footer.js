@@ -23,7 +23,7 @@ export default function Footer() {
       <button id="backToTop">
         <a href="#top">↑</a>
       </button>
-      © Jakub Skorupa, Bartłomiej Sacha
+      © Jakub Skorupa
     </footer>
   );
 }
