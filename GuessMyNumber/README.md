@@ -28,6 +28,5 @@ Project was made during the course
 🚀 How to Run the Project
 
 1. Open terminal
-2. Type:
-   npm install
-   npm start
+2. Type: npm install
+3. Type: npm start
