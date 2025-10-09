@@ -8,24 +8,16 @@ Project was made during the course [The Complete JavaScript Course](https://www.
 🕹️ Features
 
 🎲 Random number generation between 1 and 20
-
 🧩 Input validation for player guesses
-
 💬 Real-time feedback messages (“Too high!”, “Too low!”, “Correct number!”)
-
 🏆 Score tracking system that decreases with each incorrect guess
-
 🔁 “Play Again” button to restart the game without reloading the page
-
 🎨 Responsive and minimalist user interface styled with CSS
 
 
 🛠️ Technologies Used
-
 HTML5 – structure of the page
-
 CSS3 – responsive and clean design
-
 JavaScript (ES6) – game logic and interactivity
 
 
